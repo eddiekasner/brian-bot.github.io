@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Brian M. Bot
+title: brian m. bot
 email: brian.bot@sagebase.org
 description: > # this means to ignore newlines until "baseurl:"
-  This is the personal website for Brian M. Bot
+  this is the personal website for brian m. bot
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: brianmbot
+twitter_username: BrianMBot
 github_username:  brian-bot
 
 # Build settings
