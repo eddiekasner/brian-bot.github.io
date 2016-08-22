@@ -4,6 +4,10 @@ title: presentations
 permalink: /presentations/
 ---
 
+I am an open science advocate and am involved in a number of national efforts to promote a research ecosystem where participants are treated as partners in the research process. I have also been an invited speaker at a number of national and international events to share my experiences living at the intersection of biomedical research and technology.
+
+See below for a reverse chronological ordered list of events I have been invited to talk at:
+
 - **Keynote**: *Biomedical research in an increasingly digital world*. <u>Big Data in Health and Medicine: Midwest Big Data Hub</u>. Omaha, NE. 2016 August 11
 - **Panelist**: *Digital tools for drug discovery and development*. <u>Biotechnology Innovation Organization (BIO) 2016</u>. San Francisco, CA. 2016 June 9
 - *Mobile technologies: riding the hype cycle together*. <u>Oregon Health & Science University (OHSU) Oncology Retreat</u>. Portland, OR. 2016 June 6
