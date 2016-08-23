@@ -8,8 +8,8 @@
 # Site settings
 title: brian m. bot
 email: brian.bot@sagebase.org
-description: > # this means to ignore newlines until "baseurl:"
-  this is the personal website for brian m. bot
+description1: open science advocate
+description2: community builder
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: BrianMBot
 github_username:  brian-bot

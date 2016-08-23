@@ -4,6 +4,10 @@ title: publications
 permalink: /publications/
 ---
 
+***
+***
+<br>
+
 This is a personally curated list of my peer-reviewed publications. Other sources include [PubMed query](http://www.ncbi.nlm.nih.gov/pubmed?term=((((Bot%20B%5BAuthor%5D)%20OR%20Bot%20BM%5BAuthor%5D)%20OR%20Bot%2C%20Brian%5BAuthor%5D)%20OR%20Bot%2C%20Brian%20M%5BAuthor%5D)%20NOT%20Le%20Bot%20B%5BAuthor%5D), [Google Scholar](https://scholar.google.com/citations?user=uL8iPIMAAAAJ&hl=en), and [ORCID](http://orcid.org/0000-0002-2412-6826).
 
 ### Personal top 10 list (rev. chronological order)
@@ -17,6 +21,10 @@ This is a personally curated list of my peer-reviewed publications. Other source
 - Sargent D, Shi Q, Yothers G, Van Cutsem E, Cassidy J, Saltz L, Wolmark N, **Bot B**, Grothey A, Buyse A, de Gramont A. *Two or three tear disease free survival (DFS) as a primary endpoint in stage III adjuvant colon cancer trials with fluoropyrimidines with or without oxaliplatin or irinotecan: data from 12,676 patients from MOSAIC, X-ACT, PETACC-3, C-06, C-07, and C89803*. <u>Eur J Cancer</u>. 2011. doi:10.1016/j.ejca.2010.12.015
 - de Gramont A, Hubbard J, Shi Q, O’Connell M, Buyse M, Benedetti J, **Bot B**, O’Callaghan C, Yothers G, Goldberg R, Blanke C, Benson A, Deng Q, Alberts S, Andre T, Wolmark N, Grothey A, Sargent D. *Association between disease-free survival and overall survival when survival is prolonged after recurrence in patients receiving cytotoxic adjuvant therapy for colon cancer: simulations based on the 20,800 patient ACCENT data set*. <u>J Clin Oncol</u>. 2010. doi:10.1200/JCO.2009.23.1407
 - Sargent D, Kohne C, Sanoff H, **Bot B**, Seymour M, de Gramont A, Porschen R, Saltz L, Rougier P, Tournigand C, Douillard J, Stephens R, Grothey A, Goldberg R. *Pooled safety and efficacy analysis examining the effect of performance status on outcomes in 9 first line treatment trials using individual patient data from 6,286 patients with metastatic colorectal cancer*. <u>J Clin Oncol</u>. 2009. doi:10.1200/JCO.2008.20.2879
+
+***
+***
+<br>
 
 ### The rest of the best (rev. chronological order)
 - Chaibub Neto E, **Bot BM**, Kellen M, Friend SH, Trister AD. *Towards personalized causal inference of medication response in mobile health: an instrumental variable approach for randomized trials with imperfect compliance*. <u>arXiv</u>. 2016. preprint arXiv:1604.01055
