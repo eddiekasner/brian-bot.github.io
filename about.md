@@ -18,7 +18,7 @@ I am an open science advocate and am involved in a number of national efforts to
 <br>
 
 ### personal life
-I love to travel, hang with family friends, spin vinyl, play cards, drink good coffee or wine (depending on the hour of the day), and barbeque. I live in Seattle, WA and am lucky to have four fruit trees (cherry, pluot, peach, italian plum) which keep me busy in the summer months. If it were socially acceptable, I would be barefoot all day long. If you catch me at the airport traveling back from a (formal) talk, you'll often see me still in my dress clothes, but changed into sandals instead of dress shoes. That's just how I roll.
+I love to travel, hang with family and friends, spin vinyl, play cards, drink good coffee or wine (depending on the hour of the day), and barbeque. I live in Seattle, WA and am lucky to have four fruit trees (cherry, pluot, peach, italian plum) which keep me busy in the summer months. If it were socially acceptable, I would be barefoot all day long. If you catch me at the airport traveling back from a (formal) talk, you'll often see me still in my dress clothes, but changed into sandals instead of dress shoes. That's just how I roll.
 
 ***
 ***
