@@ -16,3 +16,7 @@ github_username:  brian-bot
 
 # Build settings
 markdown: kramdown
+
+# For SEO optimization
+gems:
+  - jekyll-seo-tag
