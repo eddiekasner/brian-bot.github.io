@@ -2,4 +2,4 @@
 layout: default
 ---
 
-welcome to my personal website!
+<img src="/images/whitehouse.jpg" style="width:80%;display:block;margin-left:auto;margin-right:auto">
