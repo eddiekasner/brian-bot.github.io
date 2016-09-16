@@ -20,3 +20,7 @@ markdown: kramdown
 # For SEO optimization
 gems:
   - jekyll-seo-tag
+
+# Enable linking to header anchors
+kramdown:
+  auto_ids: true
