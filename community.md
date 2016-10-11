@@ -1,6 +1,6 @@
 ---
 layout: page
-title: community
+title: Community
 permalink: /community/
 ---
 
