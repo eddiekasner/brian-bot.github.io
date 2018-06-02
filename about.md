@@ -4,20 +4,20 @@ title: About
 permalink: /about/
 ---
 
-#### Life &ni; { [professional](/about#professional-life), [personal](/about#personal-life) }
+#### life &ni; { [professional](/about#professional-life), [personal](/about#personal-life) }
 
 ***
 ***
 <br>
 
-### Professional Life
+### professional life
 I am currently a graduate student at the University of Washington in the Department of Environmental and Occupational Health Sciences (DEOHS).
 
 ***
 ***
 <br>
 
-### Personal Life
+### personal Life
 I'm an avid bicyclist.
 
 ***
