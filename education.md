@@ -8,8 +8,8 @@ permalink: /education/
 ***
 <br>
 
-#### St. John's University
+#### St. John's University, 2004
 
-#### University of Minnesota
+#### University of Minnesota, 2010
 
-#### University of Washington
+#### University of Washington, 2017
